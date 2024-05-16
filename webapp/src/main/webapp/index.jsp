@@ -14,7 +14,7 @@
     />
     <br />
 
-    <label for="mobile"><b>Enter mobile number</b></label>
+    <label for="mobile"><b>Enter mobile</b></label>
     <input
       type="text"
       placeholder="Enter moible number"
